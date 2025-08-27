@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Solihul Hadi  
 
-<!--
-**solihulhadi141213/solihulhadi141213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programmer | Web Developer | System Integrator  
 
-Here are some ideas to get you started:
+📍 Kabupaten Kuningan, Jawa Barat, Indonesia  
+🎂 Bandung, 13 Mei 1988  
+🎓 S1 Kehutanan - Universitas Kuningan  
+🏥 Programmer Divisi SIRS - RSU El-Syifa Kuningan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+Walaupun latar belakang pendidikan saya bukan dari jurusan IT, saya telah berpengalaman dalam pengembangan berbagai aplikasi, khususnya di bidang sistem informasi rumah sakit, pendidikan, dan bisnis. Saya percaya bahwa **keterampilan, pengalaman, dan semangat belajar** adalah kunci untuk memberikan solusi teknologi yang bermanfaat.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`PHP` | `Javascript` | `CSS` | `HTML` | `Python` | `Node.js` | `MySQL`  
+
+**Framework & Libraries:**  
+`Laravel` | `CodeIgniter` | `jQuery` | `Bootstrap`  
+
+---
+
+## 📂 Projects I've Worked On  
+
+- 🏥 **SIMRS** – Rumah Sakit Umum El-Syifa  
+- 🏍️ **Timing System** – Event Motor Trail (BConcept)  
+- 🏃 **Website & Event System** – Kuningan Runners  
+- 🏥 **SIM Klinik** – Klinik Samara  
+- 📚 **SIM Sekolah** – SD TI Al-Istiqomah  
+- 💊 **SIM Apotek** – Apotek Salma  
+- 🤝 **Aplikasi Koperasi** – Koperasi Insan Muamalah  
+- 📖 **E-Learning Platform** – MyMath  
+
+---
+
+## ✨ Fun Fact  
+Meskipun bukan lulusan IT, saya cukup handal dan berpengalaman dalam membangun aplikasi yang **real-use** dan sudah digunakan di berbagai institusi. Saya selalu terbuka untuk belajar teknologi baru dan berkolaborasi pada proyek yang berdampak positif.  
+
+---
+
+## 📫 Get in Touch  
+💼 [LinkedIn](#) | 🌐 [Portfolio Website](#) | ✉️ solihulhadi@example.com  
