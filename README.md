@@ -30,16 +30,49 @@ Most of my time is spent turning coffee into code, fixing bugs that mysteriously
 
 ---
 
-## 📂 Projects I've Worked On  
+## 📂 Clients & Collaborations
 
-- **SIMRS** – Rumah Sakit Umum El-Syifa  
-- **Timing System** – Event Motor Trail (BConcept)  
-- **Website & Event System** – Kuningan Runners  
-- **SIM Klinik** – Klinik Samara  
-- **SIM Sekolah** – SD TI Al-Istiqomah  
-- **SIM Apotek** – Apotek Salma  
-- **Aplikasi Koperasi** – Koperasi Insan Muamalah  
-- **E-Learning Platform** – MyMath  
+### ✅ Healthcare
+
+- Rumah Sakit Umum El-Syifa  
+   - Hospital Information System (HIS - SIMRS-Core)
+   - Radiology Managment Aplication (RMA - Radix)
+
+- Klinik Samara  
+  Clinic Information System (CIS - SIMRS-CORE)
+
+- Apotek Salma  
+  Pharmacy Information System (PIS - SIM Apotek)
+
+---
+
+### ✅ Education
+
+- SD TI Al-Istiqomah  
+  School Information System
+
+- MyMath  
+  E-Learning Platform
+
+- SD IT Annur Kuningan  
+  School Payment Application (PaySiswa)
+
+---
+
+### ✅ Business & Organization
+
+- Koperasi Insan Muamalah  
+  Cooperative Management Application
+
+---
+
+### ✅ Community & Events
+
+- BConcept  
+  Trail Event Timing System
+
+- Kuningan Runners  
+  Website & Event Management System
 
 ---
 
