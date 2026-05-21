@@ -10,8 +10,13 @@
 ---
 
 ## 🚀 About Me  
-Walaupun latar belakang pendidikan saya bukan dari jurusan IT, saya telah berpengalaman dalam pengembangan berbagai aplikasi, khususnya di bidang sistem informasi rumah sakit, pendidikan, dan bisnis. Saya percaya bahwa **keterampilan, pengalaman, dan semangat belajar** adalah kunci untuk memberikan solusi teknologi yang bermanfaat.  
+Although my educational background is not in Information Technology, technology somehow convinced me to stay permanently 😄
 
+Over the years, I’ve been actively developing various applications and digital solutions, especially for hospital information systems, education, and business environments.
+
+I’m passionate about web development, system integration, automation, and exploring new technologies that can solve real-world problems. I believe that curiosity, continuous learning, and hands-on experience are often more valuable than simply following a predefined path.
+
+Most of my time is spent turning coffee into code, fixing bugs that mysteriously disappear when someone else is watching, and building systems that make everyday work more efficient and reliable.
 ---
 
 ## 🛠️ Tech Stack  
