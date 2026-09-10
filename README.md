@@ -43,7 +43,9 @@ Most of my time is spent turning coffee into code, fixing bugs that mysteriously
 
 - Apotek Salma  
   Pharmacy Information System (PIS - SIM Apotek)
-
+  
+- Majeng Farma  
+  Pharmix v1.0.0 (PIS - SIM Apotek)
 ---
 
 ### ✅ Education
