@@ -1,60 +1,14 @@
 # 👋 Hi, I'm Solihul Hadi  
 
-### 💻 Programmer | Web Developer | System Integrator  
-
-📍 Kabupaten Kuningan, Jawa Barat, Indonesia  
-🎂 Bandung, 13 Mei 1988  
-🎓 S1 Kehutanan - Universitas Kuningan  
-🏥 Programmer Divisi SIRS - RSU El-Syifa Kuningan  
-
-<table width="100%">
-  <tr>
-    <td>
-      <p align="center">
-        <strong>👋 HELLO WORLD, I'M</strong>
-      </p>
-      <h1 align="center">Solihul Hadi</h1>
-      <p align="center">
-        <strong>Programmer · Web Developer · System Integrator</strong>
-      </p>
-      <p align="center">
-        Building practical digital solutions for healthcare,
-        education, and business.
-      </p>
-      <hr>
-      <p>
-        🏥 <strong>Current Role</strong><br>
-        Programmer, SIRS Division — RSU El-Syifa Kuningan
-      </p>
-      <p>
-        📍 <strong>Based In</strong><br>
-        Kabupaten Kuningan, West Java, Indonesia
-      </p>
-      <p>
-        🎓 <strong>Education</strong><br>
-        Bachelor’s Degree in Forestry — Universitas Kuningan
-      </p>
-      <p>
-        🎂 <strong>Born</strong><br>
-        Bandung, May 13, 1988
-      </p>
-      <hr>
-      <p align="center">
-        <code>Web Development</code>
-        <code>System Integration</code>
-        <code>Automation</code>
-      </p>
-      <p align="center">
-        <a href="mailto:dhiforester@gmail.com">
-          <strong>✉️ Let's Collaborate</strong>
-        </a>
-      </p>
-      <p align="center">
-        <em>A forestry graduate who found his calling in code.</em>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:dhiforester@gmail.com">
+    <img
+      src="./profile-card.svg"
+      width="100%"
+      alt="Solihul Hadi — Programmer, Web Developer, System Integrator"
+    />
+  </a>
+</p>
 
 ---
 
